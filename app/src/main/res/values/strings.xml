@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">ProfileBook</string>
+    <string name="sign_in">Sing in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_alert">Password must be at least 4</string>
+    <string name="main_list">Main List</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="nick_name">NickName</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="pick_from_gallery">Pick from gallery</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="by_name">By Name</string>
+    <string name="by_nick_name">By NickName</string>
+    <string name="by_date">By Date</string>
+    <string name="light_mode">Light mode</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="choose_language">Choose language</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="ukrainian">Ukrainian</string>
 </resources>
